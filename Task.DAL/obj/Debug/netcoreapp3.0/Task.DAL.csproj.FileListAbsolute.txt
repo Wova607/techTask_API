@@ -1,0 +1,10 @@
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\bin\Debug\netcoreapp3.0\Task.DAL.deps.json
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\bin\Debug\netcoreapp3.0\Task.DAL.dll
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\obj\Debug\netcoreapp3.0\Task.DAL.csprojAssemblyReference.cache
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\obj\Debug\netcoreapp3.0\Task.DAL.AssemblyInfoInputs.cache
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\obj\Debug\netcoreapp3.0\Task.DAL.AssemblyInfo.cs
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\bin\Debug\netcoreapp3.0\Task.DAL.runtimeconfig.json
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\bin\Debug\netcoreapp3.0\Task.DAL.runtimeconfig.dev.json
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\bin\Debug\netcoreapp3.0\Task.DAL.pdb
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\obj\Debug\netcoreapp3.0\Task.DAL.dll
+D:\TechnicalTask\TestTask\TaskWebAPI\Task.DAL\obj\Debug\netcoreapp3.0\Task.DAL.pdb
